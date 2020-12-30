@@ -2,6 +2,16 @@
 
 This repo is to track progress, keep some of the code and gather notes from [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2020/). More about what and why in [Kick off CS50 with Study Group](https://elisabethirgens.github.io/notes/2020/11/start-cs50/).
 
+---
+
+- Credit: https://cs50.harvard.edu/x/2020/psets/1/credit/
+- Readability: https://cs50.harvard.edu/x/2020/psets/2/readability/
+- Caesar’s cipher: https://cs50.harvard.edu/x/2020/psets/2/caesar/
+
+---
+
+## Progress
+
 ### Week 0 Scratch 😺
 
 - [x] Lecture
@@ -17,8 +27,8 @@ This repo is to track progress, keep some of the code and gather notes from [CS5
 ### Week 2 Arrays
 
 - [x] Lecture
-- [ ] Shorts: Functions, Variables and Scope, Arrays, Command Line Arguments
-- [ ] Problem set 2
+- [x] Shorts: Functions, Variables and Scope, Arrays, Command Line Arguments
+- [x] Problem set 2: Readability, Caesar
 
 ### Week 3 Algorithms
 
