@@ -33,5 +33,13 @@ This repo is to track progress, keep some of the code and gather notes from [CS5
 ### Week 3 Algorithms
 
 - [x] Lecture
-- [ ] Shorts: Linear Search, Binary Search, Bubble Sort, Selection Sort, Insertion Sort, Recursion, Merge Sort, Algorithms Summary
+- [ ] Shorts: Linear Search, Binary Search, Bubble Sort, Selection Sort, Insertion Sort, Recursion, Merge Sort
+- [ ] Lab 3
 - [ ] Problem set 3
+
+### Week 4 Memory
+
+- [x] Lecture
+- [ ] Shorts: Hexadecimal, Pointers, Defining Custom Types, Dynamic Memory Allocation, Call Stacks, File Pointers
+- [ ] Lab 4
+- [ ] Problem set 4
