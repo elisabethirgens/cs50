@@ -7,6 +7,8 @@ This repo is to track progress, keep some of the code and gather notes from [CS5
 - Credit: https://cs50.harvard.edu/x/2020/psets/1/credit/
 - Readability: https://cs50.harvard.edu/x/2020/psets/2/readability/
 - Caesar’s cipher: https://cs50.harvard.edu/x/2020/psets/2/caesar/
+- Plurality: https://cs50.harvard.edu/x/2021/psets/3/plurality/
+- Runoff election: https://cs50.harvard.edu/x/2021/psets/3/runoff/
 
 ---
 
@@ -33,9 +35,9 @@ This repo is to track progress, keep some of the code and gather notes from [CS5
 ### Week 3 Algorithms
 
 - [x] Lecture
-- [ ] Shorts: Linear Search, Binary Search, Bubble Sort, Selection Sort, Insertion Sort, Recursion, Merge Sort
-- [ ] Lab 3
-- [ ] Problem set 3
+- [x] Shorts: Linear Search, Binary Search, Bubble Sort, Selection Sort, Insertion Sort, Recursion, Merge Sort
+- [x] Lab 3
+- [ ] Problem set 3: Plurality, Runoff
 
 ### Week 4 Memory
 
