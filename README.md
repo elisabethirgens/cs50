@@ -37,7 +37,7 @@ This repo is to track progress, keep some of the code and gather notes from [CS5
 - [x] Lecture
 - [x] Shorts: Linear Search, Binary Search, Bubble Sort, Selection Sort, Insertion Sort, Recursion, Merge Sort
 - [x] Lab 3
-- [ ] Problem set 3: Plurality, Runoff
+- [x] Problem set 3: Plurality, Runoff
 
 ### Week 4 Memory
 
