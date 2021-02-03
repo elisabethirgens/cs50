@@ -45,3 +45,22 @@ This repo is to track progress, keep some of the code and gather notes from [CS5
 - [ ] Shorts: Hexadecimal, Pointers, Defining Custom Types, Dynamic Memory Allocation, Call Stacks, File Pointers
 - [ ] Lab 4
 - [ ] Problem set 4
+
+### Week 5 Data Structures
+
+- [ ] Lecture
+- [ ] Shorts: Data Structures, Singly-Linked Lists, Hash Tables, Tries
+- [ ] Lab 5
+- [ ] Problem set 5
+
+### Week 6 Python
+
+- [ ] Lecture and Shorts: Python
+- [ ] Lab 6
+- [ ] Problem set 6
+
+### Week 7 SQL
+
+- [ ] Lecture and Shorts: SQL
+- [ ] Lab 7
+- [ ] Problem set 7
