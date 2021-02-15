@@ -9,6 +9,7 @@ This repo is to track progress, keep some of the code and gather notes from [CS5
 - Caesar’s cipher: https://cs50.harvard.edu/x/2020/psets/2/caesar/
 - Plurality: https://cs50.harvard.edu/x/2021/psets/3/plurality/
 - Runoff election: https://cs50.harvard.edu/x/2021/psets/3/runoff/
+- Modify volume of .wav file: https://cs50.harvard.edu/x/2021/labs/4/
 
 ---
 
@@ -42,8 +43,8 @@ This repo is to track progress, keep some of the code and gather notes from [CS5
 ### Week 4 Memory
 
 - [x] Lecture
-- [ ] Shorts: Hexadecimal, Pointers, Defining Custom Types, Dynamic Memory Allocation, Call Stacks, File Pointers
-- [ ] Lab 4
+- [x] Shorts: Hexadecimal, Pointers, Defining Custom Types, Dynamic Memory Allocation, Call Stacks, File Pointers
+- [x] Lab 4: Volume
 - [ ] Problem set 4
 
 ### Week 5 Data Structures
