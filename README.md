@@ -1,6 +1,6 @@
 # CS50
 
-This repo is to track progress, keep some of the code and gather notes from [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2020/). More about what and why in [Kick off CS50 with Study Group](https://elisabethirgens.github.io/notes/2020/11/start-cs50/).
+This repo is to track progress, keep some of the code and gather notes from [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2021/). More about what and why in my blog post: [Kick off CS50 with Study Group](https://elisabethirgens.github.io/notes/2020/11/start-cs50/).
 
 ---
 
@@ -51,7 +51,7 @@ This repo is to track progress, keep some of the code and gather notes from [CS5
 
 ### Week 5 Data Structures
 
-- [ ] Lecture
+- [x] Lecture
 - [ ] Shorts: Data Structures, Singly-Linked Lists, Hash Tables, Tries
 - [ ] Lab 5
 - [ ] Problem set 5
