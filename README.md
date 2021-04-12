@@ -1,6 +1,14 @@
 # CS50
 
-This repo is to track progress, keep some of the code and gather notes from [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2021/). More about what and why in my blog post: [Kick off CS50 with Study Group](https://elisabethirgens.github.io/notes/2020/11/start-cs50/).
+This repo is to track progress, and gather notes from [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2021/). More about what and why in my blog post: [Kick off CS50 with Study Group](https://elisabethirgens.github.io/notes/2020/11/start-cs50/).
+
+[ide.cs50.io](https://ide.cs50.io/) is fantastic for getting started with CS50, but I wanted to have some of my code in this repo, and to run these projects in my local terminal. Here's an approach to that:
+
+## Run locally
+
+- Install [cs50/libcs50](https://github.com/cs50/libcs50)
+- Compile with for example `gcc -lcs50 -o recursion recursion.c`
+- Run program `./recursion`
 
 ---
 
