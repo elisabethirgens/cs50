@@ -7,16 +7,16 @@ int main(void)
 
     for (int i = 0; i < height; i++)
     {
-        for (int space = i; space < height - 1; space++)
+        for (int negative = i; negative <= height; negative++)
         {
             printf(" ");
         }
-        for (int block = 0; block < i + 1; block++)
+        for (int left = 0; left <= i; left++)
         {
             printf("#");
         }
-        printf("  ");
-        for (int right = 0; right < i + 1; right++)
+        printf(" "); // space between the two halves
+        for (int right = 0; right <= i; right++)
         {
             printf("#");
         }
