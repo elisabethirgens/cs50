@@ -60,7 +60,7 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 ### Week 5 Data Structures
 
 - [x] Lecture
-- [ ] Shorts: Data Structures, Singly-Linked Lists, Hash Tables, Tries
+- [x] Shorts: Data Structures, Singly-Linked Lists, Hash Tables, Tries
 - [ ] Lab 5
 - [ ] Problem set 5
 
