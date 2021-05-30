@@ -11,21 +11,20 @@ int main(void)
 
 void pyramid_builder(int x, int y)
 {
-    for (int i = 0; i < x; i++)
-    {
-        for (int negative = i; negative <= y; negative++)
-        {
-            printf(" ");
-        }
-        for (int left = 0; left <= i; left++)
-        {
-            printf("#");
-        }
-        printf(" "); // space between the two halves
-        for (int right = 0; right <= i; right++)
-        {
-            printf("#");
-        }
-        printf("\n");
-    }
+    // Base case
+    if (x == 0)
+        return;
+
+    // Recursive case! Behold this function calling itself \o/
+    pyramid_builder(x - 1, y);
+
+    y = y - x; // spaces to right-align the left half
+    for (int n = 0; n < y; n++)
+        printf(" ");
+    for (int left = 0; left < x; left++)
+        printf("#");
+    printf("  "); // space between two halves
+    for (int right = 0; right < x; right++)
+        printf("#");
+    printf("\n");
 }
