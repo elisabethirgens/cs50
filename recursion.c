@@ -1,13 +1,19 @@
 #include <cs50.h>
 #include <stdio.h>
 
+void pyramid_builder(int x, int y);
+
 int main(void)
 {
     int height = get_int("How many bricks? ");
+    pyramid_builder(height, height);
+}
 
-    for (int i = 0; i < height; i++)
+void pyramid_builder(int x, int y)
+{
+    for (int i = 0; i < x; i++)
     {
-        for (int negative = i; negative <= height; negative++)
+        for (int negative = i; negative <= y; negative++)
         {
             printf(" ");
         }
