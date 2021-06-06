@@ -1,6 +1,14 @@
 # CS50
 
-This repo is to track progress, and gather notes from [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2021/). More about what and why in my blog post: [Kick off CS50 with Study Group](https://elisabethirgens.github.io/notes/2020/11/start-cs50/).
+This repo is to track progress, and gather notes from [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2021/).
+
+## Blog posts 📝
+
+- [Kick off CS50 with Study Group](https://elisabethirgens.github.io/notes/2020/11/start-cs50/)
+- [Learn CS from Scratch](https://elisabethirgens.github.io/notes/2020/12/scratch/)
+- [Battle with Recursion](https://elisabethirgens.github.io/notes/2021/05/recursion/)
+
+---
 
 [ide.cs50.io](https://ide.cs50.io/) is fantastic for getting started with CS50, but I wanted to have some of my code in this repo, and to run these projects in my local terminal. Here's an approach to that:
 
@@ -20,6 +28,7 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 - Modify volume of .wav file: https://cs50.harvard.edu/x/2021/labs/4/
 - Filter for bitmap: https://cs50.harvard.edu/x/2021/psets/4/filter/less/
 - Recover forensic image: https://cs50.harvard.edu/x/2021/psets/4/recover/ 🔥
+- Speller with hash table: https://cs50.harvard.edu/x/2021/psets/5/speller/
 
 ---
 
@@ -29,7 +38,6 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 
 - [x] Lecture
 - [x] Problem set 0
-- wrote blog post: [Learn CS from Scratch](https://elisabethirgens.github.io/notes/2020/12/scratch/)
 
 ### Week 1 C
 
@@ -61,8 +69,8 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 
 - [x] Lecture
 - [x] Shorts: Data Structures, Singly-Linked Lists, Hash Tables, Tries
-- [ ] Lab 5
-- [ ] Problem set 5
+- [x] Lab 5
+- [ ] Problem set 5: Speller
 
 ### Week 6 Python
 
