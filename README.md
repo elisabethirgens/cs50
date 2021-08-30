@@ -7,6 +7,7 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 - [Kick off CS50 with Study Group](https://elisabethirgens.github.io/notes/2020/11/start-cs50/)
 - [Learn CS from Scratch](https://elisabethirgens.github.io/notes/2020/12/scratch/)
 - [Battle with Recursion](https://elisabethirgens.github.io/notes/2021/05/recursion/)
+- [Spell-Checker with Hash Table Dictionary](https://elisabethirgens.github.io/notes/2021/08/cs50/)
 
 ---
 
