@@ -8,6 +8,8 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 - [Learn CS from Scratch](https://elisabethirgens.github.io/notes/2020/12/scratch/)
 - [Battle with Recursion](https://elisabethirgens.github.io/notes/2021/05/recursion/)
 - [Spell-Checker with Hash Table Dictionary](https://elisabethirgens.github.io/notes/2021/08/cs50/)
+- [What Makes a Good Hash Function?](https://elisabethirgens.github.io/notes/2021/09/hash-functions/)
+- [Valgrind and Memory Issues](https://elisabethirgens.github.io/notes/2021/09/valgrind/)
 
 ---
 
@@ -71,7 +73,7 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 - [x] Lecture
 - [x] Shorts: Data Structures, Singly-Linked Lists, Hash Tables, Tries
 - [x] Lab 5
-- [ ] Problem set 5: Speller
+- [x] Problem set 5: Speller
 
 ### Week 6 Python
 
