@@ -77,7 +77,7 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 
 ### Week 6 Python
 
-- [ ] Lecture and Shorts: Python
+- [x] Lecture and Shorts: Python
 - [ ] Lab 6
 - [ ] Problem set 6
 
