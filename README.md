@@ -31,7 +31,9 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 - Modify volume of .wav file: https://cs50.harvard.edu/x/2021/labs/4/
 - Filter for bitmap: https://cs50.harvard.edu/x/2021/psets/4/filter/less/
 - Recover forensic image: https://cs50.harvard.edu/x/2021/psets/4/recover/ 🔥
+- Simulate inheritance of blood types: https://cs50.harvard.edu/x/2021/labs/5/
 - Speller with hash table: https://cs50.harvard.edu/x/2021/psets/5/speller/
+- FIFA World Cup simulations: https://cs50.harvard.edu/x/2021/labs/6/ ⚽️
 
 ---
 
@@ -78,7 +80,7 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 ### Week 6 Python
 
 - [x] Lecture and Shorts: Python
-- [ ] Lab 6
+- [x] Lab 6: World Cup
 - [ ] Problem set 6
 
 ### Week 7 SQL
@@ -86,3 +88,22 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 - [ ] Lecture and Shorts: SQL
 - [ ] Lab 7
 - [ ] Problem set 7
+
+### Week 8 HTML, CSS, JavaScript
+
+- [ ] Lecture
+- [ ] Shorts: Internet Primer, IP, TCP, HTTP, HTML, CSS, JavaScript, DOM
+- [ ] Lab 8
+- [ ] Problem set 8
+
+### Week 9 Flask
+
+- [ ] Lecture
+- [ ] Shorts: Flask, Ajax
+- [ ] Lab 8
+- [ ] Problem set 8
+
+### Week 10 Ethics
+- [ ] Lecture & Lab
+
+### Final Project
