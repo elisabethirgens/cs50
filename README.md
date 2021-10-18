@@ -34,6 +34,7 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 - Simulate inheritance of blood types: https://cs50.harvard.edu/x/2021/labs/5/
 - Speller with hash table: https://cs50.harvard.edu/x/2021/psets/5/speller/
 - FIFA World Cup simulations: https://cs50.harvard.edu/x/2021/labs/6/ ⚽️
+- DNA in Python: https://cs50.harvard.edu/x/2021/psets/6/dna/ 🐍
 
 ---
 
@@ -81,7 +82,7 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 
 - [x] Lecture and Shorts: Python
 - [x] Lab 6: World Cup
-- [ ] Problem set 6
+- [x] Problem set 6: Mario, Cash, Credit, Readability, DNA
 
 ### Week 7 SQL
 
