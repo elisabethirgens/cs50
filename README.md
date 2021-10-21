@@ -86,8 +86,8 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 
 ### Week 7 SQL
 
-- [ ] Lecture and Shorts: SQL
-- [ ] Lab 7
+- [x] Lecture and Shorts: SQL
+- [x] Lab 7: Songs
 - [ ] Problem set 7
 
 ### Week 8 HTML, CSS, JavaScript
