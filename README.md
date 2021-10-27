@@ -35,6 +35,8 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 - Speller with hash table: https://cs50.harvard.edu/x/2021/psets/5/speller/
 - FIFA World Cup simulations: https://cs50.harvard.edu/x/2021/labs/6/ ⚽️
 - DNA in Python: https://cs50.harvard.edu/x/2021/psets/6/dna/ 🐍
+- Movies with SQL: https://cs50.harvard.edu/x/2021/psets/7/movies/
+- SQL Mystery in Fiftyville: https://cs50.harvard.edu/x/2021/psets/7/fiftyville/ 🕵🏻‍♀️
 
 ---
 
@@ -88,7 +90,7 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 
 - [x] Lecture and Shorts: SQL
 - [x] Lab 7: Songs
-- [ ] Problem set 7
+- [x] Problem set 7: Movies, Fiftyville
 
 ### Week 8 HTML, CSS, JavaScript
 
