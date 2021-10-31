@@ -94,7 +94,7 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 
 ### Week 8 HTML, CSS, JavaScript
 
-- [ ] Lecture
+- [x] Lecture
 - [ ] Shorts: Internet Primer, IP, TCP, HTTP, HTML, CSS, JavaScript, DOM
 - [ ] Lab 8
 - [ ] Problem set 8
