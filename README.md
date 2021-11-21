@@ -97,7 +97,7 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 - [x] Lecture
 - [x] Shorts: Internet Primer, IP, TCP, HTTP, HTML, CSS, JavaScript, DOM
 - [x] Lab 8
-- [ ] Problem set 8
+- [x] Problem set 8
 
 ### Week 9 Flask
 
