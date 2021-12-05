@@ -101,12 +101,13 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 
 ### Week 9 Flask
 
-- [ ] Lecture
-- [ ] Shorts: Flask, Ajax
-- [ ] Lab 8
-- [ ] Problem set 8
+- [x] Lecture
+- [x] Shorts: Flask, Ajax
+- [x] Lab 9
+- [ ] Problem set 9
 
 ### Week 10 Ethics
+
 - [ ] Lecture & Lab
 
 ### Final Project
