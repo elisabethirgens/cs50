@@ -10,6 +10,7 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 - [Spell-Checker with Hash Table Dictionary](https://elisabethirgens.github.io/notes/2021/08/cs50/)
 - [What Makes a Good Hash Function?](https://elisabethirgens.github.io/notes/2021/09/hash-functions/)
 - [Valgrind and Memory Issues](https://elisabethirgens.github.io/notes/2021/09/valgrind/)
+- [Step Away From Stack Overflow](https://elisabethirgens.github.io/notes/2021/12/step-away/)
 
 ---
 
@@ -37,6 +38,7 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 - DNA in Python: https://cs50.harvard.edu/x/2021/psets/6/dna/ 🐍
 - Movies with SQL: https://cs50.harvard.edu/x/2021/psets/7/movies/
 - SQL Mystery in Fiftyville: https://cs50.harvard.edu/x/2021/psets/7/fiftyville/ 🕵🏻‍♀️
+- C$50 Finance: https://cs50.harvard.edu/x/2021/psets/9/finance/ 🤑
 
 ---
 
@@ -104,7 +106,7 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 - [x] Lecture
 - [x] Shorts: Flask, Ajax
 - [x] Lab 9
-- [ ] Problem set 9
+- [x] Problem set 9: C$50 Finance
 
 ### Week 10 Ethics
 
