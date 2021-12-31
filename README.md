@@ -110,6 +110,10 @@ This repo is to track progress, and gather notes from [CS50's Introduction to Co
 
 ### Week 10 Ethics
 
-- [ ] Lecture & Lab
+- [x] Lecture & Lab
 
 ### Final Project
+
+- [x] Wanderlust! A personal travel journal — using JavaScript and 9 years of data from my Untappd account — to stroll down memory lane of past trips. [github.com/elisabethirgens/wanderlust](https://github.com/elisabethirgens/wanderlust)
+
+![CS50 certificate](certificate.png)
